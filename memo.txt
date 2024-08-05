@@ -1,0 +1,8 @@
+PS E:\vscode\projects\html\projects\git> git -v
+PS E:\vscode\projects\html\projects\git> git init
+git config --global user.email mondcja@gmail.com
+git config --global user.name CHOI JIN
+git config --list  //환경설정 보여줘
+q //list보기에서 빠져 나오기
+
+Comand Line <ctrl+J>
