@@ -9,4 +9,7 @@ git add . Modified 된 모든 파일 stage에 올림
 로컬의 브랜치는 master 기본 (코드가지)
 원격(origin)의 브랜치는 main이 기본
 그래서 로컬의 브랜치를 main으로 변경 후 올려야함 
-git branch -M main
+git branch -M main //브랜치 네임변경
+
+git add .
+git commit -m "main branch로 변경" //재커밋
